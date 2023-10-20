@@ -9,8 +9,8 @@ public:
 };
 
 // Function to check if the linked list
-// is palindrome or not
-bool isPalin(Node* head)
+// is palindrome or 
+int isPalin(Node* head)
 {
 
 	// Temp pointer
