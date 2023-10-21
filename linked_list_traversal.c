@@ -42,4 +42,5 @@
     linked_list_traversal(head);
 
     return 0;
+    return 1;
 }
